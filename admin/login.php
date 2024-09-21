@@ -42,7 +42,7 @@ if(isset($_POST['submit'])){
          <div class="container">
             <div class="login-content shadow">
                <div class="login-form mt-150">
-               <a class="navbar-brand" href="login.php"><img src="images/acc.jpg" alt="bg"></a>
+               <a class="navbar-brand" href="login.php"><img src="images/logo.png" alt="bg"></a>
                   <form method="post">
                      <div class="form-group">
                         <label>Username</label>

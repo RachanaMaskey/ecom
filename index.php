@@ -45,7 +45,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/11.jpg" alt="slider images">
+                                    <img src="images/slider/fornt-img/drop.jpg" alt="slider images">
                                 </div>
                             </div>
                         </div>
@@ -93,7 +93,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/r3.jpg" alt="slider images">
+                                    <img src="images/slider/fornt-img/solitaire.jpg" alt="slider images">
                                 </div>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/b.jpg" alt="product images">
+                                        <img src="images/product/beads.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">
@@ -177,9 +177,9 @@
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">
-                                    <h4><a href="product-details.html">Blue Stone Bracelet</a></h4>
+                                    <h4><a href="product-details.html">Metal Beads Bracelet</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li>Rs 125</li>
+                                        <li>Rs 400</li>
                                     </ul>
                                 </div>
                             </div>
@@ -205,7 +205,7 @@
                                 <div class="fr__product__inner">
                                     <h4><a href="product-details.html">Pendant</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li>Rs 525</li>
+                                        <li>Rs 500</li>
                                     </ul>
                                 </div>
                             </div>
@@ -216,7 +216,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/r3.jpg" alt="product images">
+                                        <img src="images/product/love.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">
@@ -229,9 +229,9 @@
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">
-                                    <h4><a href="product-details.html">Pink Sapphire Ring</a></h4>
+                                    <h4><a href="product-details.html">Heart Ring</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li>Rs 225</li>
+                                        <li>Rs 250</li>
                                     </ul>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/1.jpg" alt="product images">
+                                        <img src="images/product/twisted.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">
@@ -255,9 +255,9 @@
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">
-                                    <h4><a href="product-details.html">Ear Hoop </a></h4>
+                                    <h4><a href="product-details.html">Twisted Circles Stripe Earring </a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li>Rs225</li>
+                                        <li>Rs 450</li>
                                     </ul>
                                 </div>
                             </div>

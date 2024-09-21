@@ -50,7 +50,7 @@ if(isset($_GET['id']) && $_GET['id']!=''){
                             <div class="htc__grid__top">
                                 <div class="htc__select__option">
                                     <select class="ht__select">
-                                        <option>Default softing</option>
+                                        <option>Default sorting</option>
                                         <option>Sort by popularity</option>
                                         <option>Sort by average rating</option>
                                         <option>Sort by newness</option>
